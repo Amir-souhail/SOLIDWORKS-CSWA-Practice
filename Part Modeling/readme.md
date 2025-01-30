@@ -1,5 +1,5 @@
 
-# CSMA Exam Preparation - Practice Set 1
+# CSWA Exam Preparation - Practice Set 1
 
 This repository contains practice materials and resources to help you prepare for the **CSMA Exam**. It includes questions, solutions, and basic modeling exercises to enhance your understanding and skills.
 
