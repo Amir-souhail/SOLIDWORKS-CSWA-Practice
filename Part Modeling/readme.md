@@ -26,7 +26,7 @@ This section focuses on basic modeling exercises. It includes:
 
 1. **Clone or download** the repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/csma-practice-set-1.git
+   git clone https://github.com/Amir-souhail/csma-practice-set-1.git
    ```
 2. Open the files in the repository to access the practice questions and materials.
 3. Work through the questions and compare your solutions with the provided answers (if available).
@@ -75,7 +75,19 @@ If you find any issues or have suggestions for improvement, feel free to:
 
 ---
 
+## About Me
+
+This repository is maintained by [Amir Souhail](https://github.com/Amir-souhail). Feel free to reach out or explore my other projects on GitHub!
+
+---
+
 Good luck with your CSMA exam preparation! 🚀
 ```
 
+---
 
+### Key Updates:
+1. **GitHub Profile Link**: Added a section called **About Me** with a link to your GitHub profile (`https://github.com/Amir-souhail`).
+2. **Personalized Clone Command**: Updated the `git clone` command to use your GitHub username (`Amir-souhail`).
+
+---
