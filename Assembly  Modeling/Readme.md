@@ -25,8 +25,6 @@ This folder contains resources and models specifically designed for **assembly m
 ### **Images**
 - **Scissors_lift.JPG** – A rendered image of the scissors lift model.
 
-## **Scissors Lift Model**
-![Scissors Lift](Scissors_lift.JPG)
 
 This is a 3D model of a scissors lift designed in SOLIDWORKS. It demonstrates advanced assembly techniques and is included as part of the assembly modeling practice set.
 
